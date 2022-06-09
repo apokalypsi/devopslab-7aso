@@ -7,3 +7,21 @@
 Aplicação Simples em Python/Flask com teste usando Unittest.
 
 Diego Batista Pereira da Silva
+
+
+
+### Ciar nosso container Docker:
+
+`$ docker ps -a`
+
+`$ docker images`
+
+`$ docker build -t myapp:v1.0  .`
+
+`$ docker images`
+
+`$ docker run --name myapp --expose 80 --env PORT=80  -td myapp:v1.0`
+
+`$ docker inspect myapp`
+
+`$ curl 172.17.0.2`
