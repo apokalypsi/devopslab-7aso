@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="175431b8-85a7-4015-988a-6b8d2819184a" name="Changes" comment="Desafio: &quot;Dockerizar&quot; a App">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/pipeline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pipeline.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/sonar-project.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,7 @@
       <updated>1651715812349</updated>
       <workItem from="1651715817920" duration="237000" />
       <workItem from="1653998779059" duration="422000" />
-      <workItem from="1654730756793" duration="6444000" />
+      <workItem from="1654730756793" duration="7332000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio: Custom Message">
       <created>1651716002274</created>
@@ -154,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654736937068</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Desafio: &quot;Dockerizar&quot; a App">
+      <created>1654737955465</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654737955465</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Desafio: &quot;Dockerizar&quot; a App">
+      <created>1654738141280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654738141280</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
