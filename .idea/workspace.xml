@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="175431b8-85a7-4015-988a-6b8d2819184a" name="Changes" comment="Desafio: &quot;Dockerizar&quot; a App" />
+    <list default="true" id="175431b8-85a7-4015-988a-6b8d2819184a" name="Changes" comment="Desafio: &quot;Dockerizar&quot; a App">
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +93,7 @@
       <updated>1651715812349</updated>
       <workItem from="1651715817920" duration="237000" />
       <workItem from="1653998779059" duration="422000" />
-      <workItem from="1654730756793" duration="1703000" />
+      <workItem from="1654730756793" duration="2057000" />
     </task>
     <task id="LOCAL-00001" summary="Desafio: Custom Message">
       <created>1651716002274</created>
@@ -107,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654732794659</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Desafio: &quot;Dockerizar&quot; a App">
+      <created>1654733055795</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654733055795</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +139,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Desafio: &quot;Dockerizar&quot; a App" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/devopslab_7aso$devopslab_7aso.coverage" NAME="devopslab-7aso Coverage Results" MODIFIED="1654732835066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/devopslab_7aso$devopslab_7aso.coverage" NAME="devopslab-7aso Coverage Results" MODIFIED="1654732987642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/devopslab_7aso$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1654730772974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
